@@ -1,0 +1,23 @@
+.input-group{
+    max-width: 50%;
+    justify-content: center;
+    margin-left: 25%;
+}
+
+.card-deck{
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: black !important;
+}
+
+*{
+    color: whitesmoke;
+}
+
+.card-deck{
+    margin-top: 5rem;
+    gap: 3rem;
+}
